@@ -18,7 +18,7 @@
 /* HTML and Body Styles */
 
 html {
-	backround-color: hel(27, 72%, 72%);
+	backround-color: hsl(27, 72%, 72%);
 }
 
 body {
